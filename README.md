@@ -1,6 +1,6 @@
 # AnalysePotentialSkinCancerTreatment
 
-This Python script will analyse the csv data sources by reading the files from data Folder.
+This Python script will analyse the csv data sources by reading the files from data folder.
 
 It will then analyses the data and create the following:
   - summary statistics
